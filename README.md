@@ -20,7 +20,7 @@ It includes insights on artists, albums, song popularity, monthly trends, audio 
 A clean landing screen with page navigation inspired by Spotify’s interface.
 
 <p align="center">
-  <img src="assets/home.png" width="850">
+  <img <img width="1523" height="849" alt="image" src="https://github.com/user-attachments/assets/eb261b2a-886b-4810-b8bd-cf2c61f230c3" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ A clean landing screen with page navigation inspired by Spotify’s interface.
 - Album type distribution  
 
 <p align="center">
-  <img src="assets/overview.png" width="850">
+  <img <img width="1529" height="859" alt="Spotify Dashboard" src="https://github.com/user-attachments/assets/90d9b288-64ce-43f3-821d-40dcb21ed42d" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ A clean landing screen with page navigation inspired by Spotify’s interface.
 - Detailed artist table (year, album type, avg popularity, best rank, duration)
 
 <p align="center">
-  <img src="assets/artist.png" width="850">
+  <img width="1519" height="851" alt="Artist Page" src="https://github.com/user-attachments/assets/017b098f-25ee-4460-ba3e-27e2a82d1342" />
 </p>
 
 ---
@@ -59,17 +59,9 @@ A clean landing screen with page navigation inspired by Spotify’s interface.
 - Song-level metadata  
 
 <p align="center">
-  <img src="assets/songs.png" width="850">
+  <img <img width="1514" height="844" alt="image" src="https://github.com/user-attachments/assets/a7e4000d-8a1c-41ea-abe7-e2bb22b041e8" />
 </p>
 
----
-
-## 🎥 Dashboard Demo (GIF Preview)
-> *(Record using ScreenToGIF → save as `assets/demo.gif` → replace link below)*
-
-<p align="center">
-  <img src="assets/demo.gif" width="850">
-</p>
 
 ---
 
